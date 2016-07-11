@@ -1,0 +1,12 @@
+{
+  "1": {
+    "requestBody": {
+      "name": "MyApp",
+      "domain": "https://my.domain.com"
+    },
+    "authorization":{
+      "login": "user@email.com",
+      "password": "abcd1234"
+    }
+  }
+}
